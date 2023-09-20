@@ -1,0 +1,6 @@
+streamlit
+huggingface_hub
+langchain
+Requests
+python-dotenv
+altair
